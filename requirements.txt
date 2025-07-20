@@ -1,0 +1,4 @@
+streamlit
+openai==1.96.1
+ipython
+python-dotenv 
